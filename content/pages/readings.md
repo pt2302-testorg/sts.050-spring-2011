@@ -11,7 +11,7 @@ uid: 60910745-348b-4284-6dd5-a17958912748
 ---
 ## Required Readings
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262113236) **\[Becoming MIT\]** Kaiser, David. [*Becoming MIT: Moments of Decision*](https://mitpress.mit.edu/9780262113236). The MIT Press, 2010. ISBN: 9780262113236.
+{{% resource_link "cb18eacb-d24f-47c7-9705-5d1baf515831" "Buy at MIT Press" %}} **\[Becoming MIT\]** Kaiser, David. {{% resource_link "cb18eacb-d24f-47c7-9705-5d1baf515831" "*Becoming MIT: Moments of Decision*" %}}. The MIT Press, 2010. ISBN: 9780262113236.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -24,7 +24,7 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Introduction, Course Overview, What is Technology?
 {{< tdclose >}}{{< tdopen >}}
-Marx, Leo. "[Technology: The Emergence of a Hazardous Concept](https://www.jstor.org/stable/40971194)." *Technology and Culture* 51, no. 3 (2010).
+Marx, Leo. "{{% resource_link "00568673-55d1-48ff-bdcf-14c5a0056f02" "Technology: The Emergence of a Hazardous Concept" %}}." *Technology and Culture* 51, no. 3 (2010).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -51,19 +51,19 @@ William Barton Rogers & The Foundational Years, 1861–1896
 
 **\[Becoming MIT\]** pp. 20–47. Smith, Merritt Roe. "'Godspeed the Institute': The Foundational years, 1861–1894."
 
-Senate and House of Representatives of Massachusetts. 1861. "Acts and Resolves of the General Court Relating to the Massachusetts Institute of Technology." *Acts of 1861, Chapter 183*. ([PDF](https://web.archive.org/web/20150701055022/http://libraries.mit.edu/archives/mithistory/pdf/1861%20Charter.pdf))
+Senate and House of Representatives of Massachusetts. 1861. "Acts and Resolves of the General Court Relating to the Massachusetts Institute of Technology." *Acts of 1861, Chapter 183*. ({{% resource_link "9f9acef9-ef89-491b-8967-748f0403b2ed" "PDF" %}})
 
-Walker, Francis Amasa. "[Massachusetts Institute of Technology Annual Report](http://dome.mit.edu/handle/1721.3/62047)." Cambridge: University Press, 1894.
+Walker, Francis Amasa. "{{% resource_link "971b9a10-cc1a-4cd0-b954-c3142b4152a0" "Massachusetts Institute of Technology Annual Report" %}}." Cambridge: University Press, 1894.
 
-Eliot, Charles. "[The New Education](http://www.theatlantic.com/magazine/archive/1869/02/the-new-education/309049/)." *The Atlantic Monthly* 23, no. 136 (1869): 203–20.
+Eliot, Charles. "{{% resource_link "3878f4de-5759-4d23-9706-9f03ea717f95" "The New Education" %}}." *The Atlantic Monthly* 23, no. 136 (1869): 203–20.
 
-*Optional Reading*: Rogers, William Barton, et al. "[Scope and Plan of the School of Industrial Science of the Massachusetts Institute of Technology](https://www.loc.gov/resource/gdcmassbookdig.scopeplanofschoo00mass/?st=gallery)." 1984. \[Preview with [Google Books](http://books.google.com/books?id=EgEsMAFi5UYC&lpg=PA86&pg=PA86#v=onepage&q&f=false)\]
+*Optional Reading*: Rogers, William Barton, et al. "{{% resource_link "0cad1d87-f81a-4556-b3f6-efa9fa1c3100" "Scope and Plan of the School of Industrial Science of the Massachusetts Institute of Technology" %}}." 1984. \[Preview with {{% resource_link "c9f1085f-295d-4e76-a719-6324420d3565" "Google Books" %}}\]
 
 Angulo, A. J. "Instituting a New Education." In *William Barton Rogers and the Idea of MIT*. The Johns Hopkins University Press, 2008, pp. 86–100. ISBN: 9780801890338.
 
 ———. "Convergence of Interests." In *William Barton Rogers and the Idea of MIT*. The Johns Hopkins University Press, 2008, pp. 101–23. ISBN: 9780801890338.
 
-Noble, David. "The Wedding of Science to the Useful Arts - II: The Development of Technical Education." In *America by Design: Science, Technology, and the Rise of Corporate Capitalism*. Oxford University Press, 1979, pp. 20–53. ISBN: 9780195026184. \[Preview with [Google Books](http://books.google.com/books?id=LBYlAV6VmpwC&lpg=PP1&pg=PA20#v=onepage&q&f=false)\]
+Noble, David. "The Wedding of Science to the Useful Arts - II: The Development of Technical Education." In *America by Design: Science, Technology, and the Rise of Corporate Capitalism*. Oxford University Press, 1979, pp. 20–53. ISBN: 9780195026184. \[Preview with {{% resource_link "029908c1-6b1f-4a55-84e7-4fd459ead94a" "Google Books" %}}\]
 
 132 pages
 
@@ -73,7 +73,7 @@ Noble, David. "The Wedding of Science to the Useful Arts - II: The Development o
 Harvard, MIT, and Building a New Campus
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661393) Prescott, Samuel. Selections from [*When MIT Was 'Boston Tech': 1861–1916*](https://mitpress.mit.edu/9780262661393). The MIT Press, 2003. ISBN: 9780262661393.
+{{% resource_link "4493a470-7f3b-4c7e-87de-8089abb4ccb2" "Buy at MIT Press" %}} Prescott, Samuel. Selections from {{% resource_link "4493a470-7f3b-4c7e-87de-8089abb4ccb2" "*When MIT Was 'Boston Tech': 1861–1916*" %}}. The MIT Press, 2003. ISBN: 9780262661393.
 
 \- "Richard Cockburn Maclaurin—Sixth President."
 
@@ -83,7 +83,7 @@ Harvard, MIT, and Building a New Campus
 
 **\[Becoming MIT\]**, pp. 51–77. Sinclair, Bruce. "Mergers and Acquisitions."
 
-Jarzombek, Mark. *Designing MIT: Bosworth's New Tech*. Northeastern, 2004, pp. 56–7, 65–91, and 94–5. ISBN: 9781555536190. \[Preview with [Google Books](http://books.google.com/books?id=QiwRGc3E7Z8C&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
+Jarzombek, Mark. *Designing MIT: Bosworth's New Tech*. Northeastern, 2004, pp. 56–7, 65–91, and 94–5. ISBN: 9781555536190. \[Preview with {{% resource_link "b1f7d685-1dbb-481b-8d01-f1f5ed00e756" "Google Books" %}}\]
 
 *Optional Reading*: Pearson, Henry. Selections from *Richard Cockburn Maclaurin, President of the Massachusetts Institute of Technology 1909–1920*. The Macmillan Company, 1937.
 
@@ -109,13 +109,13 @@ Noble, David. Selections from *America by Design: Science, Technology, and the R
 
 \- "A Technology of Social Production: Modern Management and the Expansion of Engineering." pp. 257–68.
 
-Owens, Larry. "[Engineering and the Perfect Cup of Coffee: Samuel Prescott and the Sanitary Vision at MIT](http://www.jstor.org/discover/10.2307/40060687?uid=3737496&uid=2129&uid=2&uid=70&uid=4&sid=56031765673)." *Technology and Culture* 45, no. 4 (2004): 795–807.
+Owens, Larry. "{{% resource_link "5748fb48-2a93-46bc-a44b-d86c1abc3682" "Engineering and the Perfect Cup of Coffee: Samuel Prescott and the Sanitary Vision at MIT" %}}." *Technology and Culture* 45, no. 4 (2004): 795–807.
 
-Hughes, Thomas. "The System Must Be First." In *American Genesis: A Century of Invention and Technological Enthusiasm, 1870–1970*. University of Chicago Press, 2004, pp. 184–248. ISBN: 9780226359274. \[Preview with [Google Books](http://books.google.com/books?id=-Hn_o1F5uL0C&pg=PA184#v=onepage)\]
+Hughes, Thomas. "The System Must Be First." In *American Genesis: A Century of Invention and Technological Enthusiasm, 1870–1970*. University of Chicago Press, 2004, pp. 184–248. ISBN: 9780226359274. \[Preview with {{% resource_link "d73267a1-3bf0-4e36-b161-8a54d198941c" "Google Books" %}}\]
 
 **\[Becoming MIT\]** pp. 75–102. Lécuyer, Christophe. 2010. "Patrons and a Plan."
 
-Bassett, Ross. "[MIT Trained Swadeshis: MIT and Indian Nationalism, 1880–1947](http://dx.doi.org/10.1086/605976)." *Osiris* 24 (2009): 212–30.
+Bassett, Ross. "{{% resource_link "3df2c8ed-87ec-4562-855e-4133a0058f99" "MIT Trained Swadeshis: MIT and Indian Nationalism, 1880–1947" %}}." *Osiris* 24 (2009): 212–30.
 
 163 pages
 
@@ -125,7 +125,7 @@ Bassett, Ross. "[MIT Trained Swadeshis: MIT and Indian Nationalism, 1880–1947]
 World War I, the 1920s, and the 1930s
 {{< tdclose >}}{{< tdopen >}}
 
-Hughes, Thomas. "Brain Mill for the Military." In *American Genesis: A Century of Invention and Technological Enthusiasm 1870–1970*. University of Chicago Press, 2004, pp. 96–137. ISBN: 9780226359274. \[Preview with [Google Books](http://books.google.com/books?id=-Hn_o1F5uL0C&pg=PA96#v=onepage)\]
+Hughes, Thomas. "Brain Mill for the Military." In *American Genesis: A Century of Invention and Technological Enthusiasm 1870–1970*. University of Chicago Press, 2004, pp. 96–137. ISBN: 9780226359274. \[Preview with {{% resource_link "e60e0d07-1a5d-4fab-8d14-a02574ae1d5f" "Google Books" %}}\]
 
 Servos, John. "The Industrial Relations of Science: Chemical Engineering at MIT, 1900–1939." *Isis* 71, no. 4 (1980): 531–49.
 
@@ -145,7 +145,7 @@ Symposium: Leaders in Science and Engineering: The Women of MIT
 Class Meets at MIT Museum
 {{< tdclose >}}{{< tdopen >}}
 
-MIT Institute Archives and Special Collections. "[The Mid-Century Convocation at MIT March 31, April 1–2, 1949](https://winstonchurchill.org/resources/speeches/1946-1963-elder-statesman/mit-mid-century-convocation/)." August, 1999.
+MIT Institute Archives and Special Collections. "{{% resource_link "aa9cbb69-bbe9-4d8d-bf2f-286065e54dab" "The Mid-Century Convocation at MIT March 31, April 1–2, 1949" %}}." August, 1999.
 
 6 pages.
 
@@ -165,9 +165,9 @@ World War II and the Aftermath
 
 Dupree, A. Hunter. "The Great Instauration of 1940." In *The Twentieth Century Sciences: Studies in the Biography of Ideas*. Edited by Gerald Holton. W. W. Norton & Company, 1972, pp. 443–67. ISBN: 9780393063844.
 
-Bush, Vannevar. "[Science, The Endless Frontier](https://www.nsf.gov/about/history/vbush1945.htm)." Washington DC: United States Government Printing Office, 1945.
+Bush, Vannevar. "{{% resource_link "e4c1e6f5-7373-48a0-a938-901547b80887" "Science, The Endless Frontier" %}}." Washington DC: United States Government Printing Office, 1945.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262730099) Wiener, Norbert. "Introduction." In [*Cybernetics Or Control And Communication In The Animal And The Machine*](https://mitpress.mit.edu/9780262730099). MIT Press, 1965, pp. 1–29. ISBN: 9780262730099. \[Preview with [Google Books](http://books.google.com/books?id=NnM-uISyywAC&lpg=PP1&pg=PA1)\]
+{{% resource_link "b4de32c9-9a50-4428-baa2-f49bd2180be1" "Buy at MIT Press" %}} Wiener, Norbert. "Introduction." In {{% resource_link "b4de32c9-9a50-4428-baa2-f49bd2180be1" "*Cybernetics Or Control And Communication In The Animal And The Machine*" %}}. MIT Press, 1965, pp. 1–29. ISBN: 9780262730099. \[Preview with {{% resource_link "c1eacc34-8127-4b3f-b1aa-87607e0e4c6c" "Google Books" %}}\]
 
 100 pages
 
@@ -183,9 +183,9 @@ Hughes, Thomas. Selections from *Rescuing Prometheus: Four Monumental Projects T
 
 \- Spread of the Systems Approach, pp. 141–95.
 
-Noble, David. "Command Performance." In *Major Problems in the History of American Technology*. Edited by Merritt Roe Smith and Gregory Clancey. Houghton Mifflin, 1997, pp. 462–70. ISBN: 9780669354720. \[Preview with [Google Books](http://books.google.com/books?id=ukk6jtvWtMoC&pg=PA329#v=onepage)\]
+Noble, David. "Command Performance." In *Major Problems in the History of American Technology*. Edited by Merritt Roe Smith and Gregory Clancey. Houghton Mifflin, 1997, pp. 462–70. ISBN: 9780669354720. \[Preview with {{% resource_link "8eebd8ab-95db-4eea-b931-fb240d645657" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262110662) Killian, James. Selections from [*Sputnik, Scientists, and Eisenhower: A Memoir of the First Special Assistant to the President for Science and Technology*](https://mitpress.mit.edu/9780262110662). MIT Press, 1977. ISBN: 9780262110662.
+{{% resource_link "3f4ae0eb-1206-4b84-afa8-79c36eb28d77" "Buy at MIT Press" %}} Killian, James. Selections from {{% resource_link "3f4ae0eb-1206-4b84-afa8-79c36eb28d77" "*Sputnik, Scientists, and Eisenhower: A Memoir of the First Special Assistant to the President for Science and Technology*" %}}. MIT Press, 1977. ISBN: 9780262110662.
 
 \- "Sputnik and its Shockwaves."
 
@@ -205,7 +205,7 @@ Leslie, Stuart. "The Days of Reckoning: March 4 and April 3." In *The Cold War a
 
 **\[Becoming MIT\]** pp. 185–212. Durant, John. 2010. "'Refrain from Using the Alphabet': How Community Outreach Catalyzed the Life Sciences at MIT." 2010.
 
-Roberts, Edward, and Charles Eesley. "[Entrepreneurial Impact: the Role of MIT](http://www.kauffman.org/what-we-do/research/2009/08/entrepreneurial-impact-the-role-of-mit)." Report sponsored by the Kaufman Foundation of Entrepreneurship, 2009, pp. 4–27.
+Roberts, Edward, and Charles Eesley. "{{% resource_link "f6cf50b3-4a24-4c3c-80f9-3aec99e16c07" "Entrepreneurial Impact: the Role of MIT" %}}." Report sponsored by the Kaufman Foundation of Entrepreneurship, 2009, pp. 4–27.
 
 73 pages
 
