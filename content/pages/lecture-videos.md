@@ -67,7 +67,7 @@ David Mindell, Merrit Roe Smith, Rosalind Williams
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-**Symposium:** [Leaders in Science and Engineering: The Women of MIT](https://www.youtube.com/watch?v=-QiNDrY3b3s)
+**Symposium:** {{% resource_link "e2f85f08-2ee1-41d9-9cc4-3d3385ba1283" "Leaders in Science and Engineering: The Women of MIT" %}}
 {{< tdclose >}}{{< tdopen >}}
 There is no video for this session
 {{< tdclose >}}{{< tdopen >}}
@@ -75,7 +75,7 @@ There is no video for this session
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Class Meets at [MIT Museum](http://web.mit.edu/museum/)
+Class Meets at {{% resource_link "553a283f-023e-408f-9504-14173cb995af" "MIT Museum" %}}
 {{< tdclose >}}{{< tdopen >}}
 There is no video for this session
 {{< tdclose >}}{{< tdopen >}}
@@ -83,7 +83,7 @@ There is no video for this session
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-**Symposium:** [Computation and the Transformation of Practically Everything](https://www.youtube.com/watch?v=x36UgWzsIzw)
+**Symposium:** {{% resource_link "4408e2de-cc32-4468-9886-1c49553a5c93" "Computation and the Transformation of Practically Everything" %}}
 {{< tdclose >}}{{< tdopen >}}
 There is no video for this session
 {{< tdclose >}}{{< tdopen >}}
