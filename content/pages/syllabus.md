@@ -15,7 +15,7 @@ Lectures: 1 session / week, 3 hours / session
 
 ## Textbook
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262113236) Kaiser, David. [*Becoming MIT: Moments of Decision*](https://mitpress.mit.edu/9780262113236). MIT Press, 2010. ISBN: 9780262113236.
+{{% resource_link "cb18eacb-d24f-47c7-9705-5d1baf515831" "Buy at MIT Press" %}} Kaiser, David. {{% resource_link "cb18eacb-d24f-47c7-9705-5d1baf515831" "*Becoming MIT: Moments of Decision*" %}}. MIT Press, 2010. ISBN: 9780262113236.
 
 ## Requirements
 
@@ -64,7 +64,7 @@ KEY DATES
 {{< tdclose >}}{{< tdopen >}}
 Introduction, Course Overview, What is Technology?
 {{< tdclose >}}{{< tdopen >}}
-[Karen Arenson](http://en.wikipedia.org/wiki/Karen_Arenson)
+{{% resource_link "ae7bb385-3b1b-43c3-ace5-7e808b4a92e1" "Karen Arenson" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -88,7 +88,7 @@ William Barton Rogers & The Foundational Years, 1861-1896
 {{< tdclose >}}{{< tdopen >}}
 Harvard, MIT, and Building a New Campus
 {{< tdclose >}}{{< tdopen >}}
-[Mark Jarzombek](http://web.mit.edu/mmj4/www/)
+{{% resource_link "4cb645e9-699e-4197-b099-c439a7f8f0fa" "Mark Jarzombek" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -96,7 +96,7 @@ Harvard, MIT, and Building a New Campus
 {{< tdclose >}}{{< tdopen >}}
 MIT and the Corporate World in the Age of Big Business, 1890-1930
 {{< tdclose >}}{{< tdopen >}}
-[Ross Bassett](https://chass.ncsu.edu/people/ross-2/)
+{{% resource_link "134f3ce0-7be1-48fd-b382-a3704941a5e9" "Ross Bassett" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -104,13 +104,13 @@ MIT and the Corporate World in the Age of Big Business, 1890-1930
 {{< tdclose >}}{{< tdopen >}}
 World War I, the 1920s, and the 1930s
 {{< tdclose >}}{{< tdopen >}}
-[Rosalind Williams](https://sts-program.mit.edu/people/emeriti-faculty/rosalind-williams/)
+{{% resource_link "2d2991d0-fbdc-4c0b-9ef4-3a3b10fdb73e" "Rosalind Williams" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Symposium: [*Leaders in Science and Engineering: The Women of MIT*](https://www.youtube.com/watch?v=-QiNDrY3b3s)
+Symposium: {{% resource_link "e2f85f08-2ee1-41d9-9cc4-3d3385ba1283" "*Leaders in Science and Engineering: The Women of MIT*" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -118,7 +118,7 @@ First writing assignment due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-*Class Meets at* [*MIT Museum*](http://web.mit.edu/museum/)
+*Class Meets at* {{% resource_link "553a283f-023e-408f-9504-14173cb995af" "*MIT Museum*" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -126,7 +126,7 @@ First writing assignment due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Symposium: [*Computation and the Transformation of Practically Everything*](https://www.youtube.com/watch?v=x36UgWzsIzw)
+Symposium: {{% resource_link "4408e2de-cc32-4468-9886-1c49553a5c93" "*Computation and the Transformation of Practically Everything*" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -134,7 +134,7 @@ Symposium: [*Computation and the Transformation of Practically Everything*](http
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Special Event: [The Next Century Convocation](https://www.youtube.com/watch?v=jzgv22a8tIA)
+Special Event: {{% resource_link "9f63a378-0907-4fd7-a706-3fe184cbd7f5" "The Next Century Convocation" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
